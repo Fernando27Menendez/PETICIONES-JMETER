@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+node_modules/
+.tooling/
+**/backend/data/
+**/backend/bin/
+pruebas/datos/
+pruebas/resultados/*
+!pruebas/resultados/INFORME.md
